@@ -1,3 +1,4 @@
+![Black Liquid Minimalist Daily Quotes LinkedIn Banner (3)](https://github.com/thimeshaA/thimeshaA/assets/101446688/d5372216-65e0-4fec-a436-f728021a60db)
 <h1 align="center">Hi 👋, I'm Thimesha Ansar</h1>
 <h3 align="center">A passionate Software Engineer from SriLanka</h3>
 
