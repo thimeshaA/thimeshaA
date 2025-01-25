@@ -6,10 +6,6 @@
 
 - ⚡ Fun fact **jokes don't lie**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/thimesha-ansar-55499b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/thimesha-ansar-55499b239" height="30" width="40" /></a>
@@ -21,7 +17,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/thimeshaansar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/thimeshaansar" /></a></p><br><br>
-<br><br><br>
+<br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thimeshaa&show_icons=true&locale=en&layout=compact" alt="thimeshaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thimeshaa&show_icons=true&locale=en" alt="thimeshaa" /></p>
