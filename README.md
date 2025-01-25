@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thimeshaa" alt="thimeshaa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/thimeshaansar/overlay/1723006239126/single-media-viewer?type=LINK&profileId=ACoAADtpolABTreq-FaN2ZkouXZS22XXM_urWek&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBo%2BTKWm8TguvinsmSj0LYw%3D%3D](https://www.linkedin.com/in/thimeshaansar/overlay/1723006239126/single-media-viewer?type=LINK&profileId=ACoAADtpolABTreq-FaN2ZkouXZS22XXM_urWek&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBo%2BTKWm8TguvinsmSj0LYw%3D%3D)
-
 - 📫 How to reach me **thimeshaansar@gmail.com**
 
 - ⚡ Fun fact **jokes don't lie**
@@ -16,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.thimesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.thimesha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/thimesha-ansar-55499b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/thimesha-ansar-55499b239" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/thimeshaansar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/thimeshaansar_" height="30" width="40" /></a>
 </p>
